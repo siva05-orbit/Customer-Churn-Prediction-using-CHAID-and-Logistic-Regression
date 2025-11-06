@@ -63,6 +63,9 @@ Predicting customer churn using a hybrid approach that combines CHAID (Chi-squar
 | Lift (Top Decile) | 1.9× |
 | Gains | Captures ~60% churners in top 30% customers |
 
+<img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/65605fde-2b10-45a8-822d-38435c74fcfc" />
+
+
 **Business Insights:**
 - Customers with **International Plan** and **>3 customer service calls** are at the highest churn risk.  
 - Customers with **Voicemail Plan** show the lowest churn probability.  
