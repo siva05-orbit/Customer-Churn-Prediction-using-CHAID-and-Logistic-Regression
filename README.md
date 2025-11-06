@@ -35,6 +35,10 @@ Predicting customer churn using a hybrid approach that combines CHAID (Chi-squar
    - Extracted human-readable decision rules explaining churn patterns  
    - Interpreted rules in a business context for actionable insights
 
+
+     <img width="1576" height="658" alt="image" src="https://github.com/user-attachments/assets/a97451e1-c4f0-4f28-ab8a-bfb0aa7499f4" />
+
+
 4. **Logistic Regression Model**
    - Built and trained a predictive model on scaled features  
    - Evaluated using AUC, precision, recall, and accuracy metrics
