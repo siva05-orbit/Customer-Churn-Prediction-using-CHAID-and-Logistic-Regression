@@ -2,14 +2,6 @@
 Predicting customer churn using a hybrid approach that combines CHAID (Chi-square Automatic Interaction Detection) for rule-based insights and Logistic Regression for probabilistic prediction. Includes full EDA, model evaluation (ROC, Lift, and Gains charts), and interpretable business insights for retention strategy.
 
 
-# Customer Churn Prediction using CHAID and Logistic Regression
-
-This project predicts customer churn using both statistical and machine learning methods.  
-It combines **CHAID rule induction** for interpretable decision rules and **Logistic Regression** for accurate churn probability estimation.  
-The analysis is performed on a telecom churn dataset and includes complete visualization, evaluation, and deployment steps.
-
----
-
 ##  Project Overview
 
 - **Objective:** Identify key factors influencing customer churn and build a predictive model for retention strategy.
